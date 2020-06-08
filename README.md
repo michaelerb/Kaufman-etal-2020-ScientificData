@@ -1,7 +1,7 @@
 # Kaufman-etal-2020-ScientificData
 This directory contains scripts for processing the climate reconstructions described in Kaufman et al., 2020, Scientific Data, "Holocene global mean surface temperature -- A multi-method reconstruction approach", and for producing Figs. 2-6 in that paper.  The code is written in python3 and is offered as-is.
 
-Description of scripts:
+### Description of scripts:
 
 make_final_data_files.py - This script reads in the climate reconstructions produced using five different methods, restandardizes the data, and produces new files.  The code used to create the climate reconstructions can be found at https://github.com/nickmckay/Temperature12k/tree/master/ScientificDataAnalysis.
 
